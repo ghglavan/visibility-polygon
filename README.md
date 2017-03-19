@@ -1,4 +1,4 @@
-This is a project that I've made with <a href ="https://github.com/NeacsuRadu">Neacsu Radu</a>
+This is a project that I made with <a href ="https://github.com/NeacsuRadu">Neacsu Radu</a>
 
 <b>Input</b>: A polygon P, and A a point inside P.<br>
 <b>Output</b>: A graphical reprezentation of the area inside P that is visible from A.
